@@ -1,1 +1,1 @@
-# Chat
+# Minimal Chat
